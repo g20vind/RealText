@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862835959921",
+    "project_id": "realtext-92e79",
+    "storage_bucket": "realtext-92e79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862835959921:android:bac5c083b8ec2618b693d0",
+        "android_client_info": {
+          "package_name": "com.nicegames.realtext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862835959921-9evmn821f1l8ra71j5cp2nuv4oq2sonr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCijXTg7Mgbtn6jCPAlnZz4agux1kMhmRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862835959921-9evmn821f1l8ra71j5cp2nuv4oq2sonr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
